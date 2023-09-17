@@ -1,4 +1,4 @@
-# dacon_practuce
+# dacon_practice
 
 ## 개요
 
